@@ -11,7 +11,7 @@
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.scvhelper.Controller">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.woojii.sonchar.Controller">
    <children>
       <Button disable="true" layoutX="730.0" layoutY="14.0" mnemonicParsing="false" onAction="#ST_" text="설정" />
       <ComboBox fx:id="world" disable="true" layoutX="13.0" layoutY="142.0" prefHeight="22.0" prefWidth="100.0" />
